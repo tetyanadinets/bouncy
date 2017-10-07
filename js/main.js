@@ -46,7 +46,7 @@ $(window).on('load', function(){
 			  var markerPoltava = new google.maps.Marker({
 			position : {lat: 49.5685276, lng: 34.58543170000007},
 			map : map,
-			icon: '../img/favicon.png'
+			icon: 'img/favicon.png'
 		});
 		});
 })(jQuery);
